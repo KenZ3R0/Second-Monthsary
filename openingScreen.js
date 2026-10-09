@@ -320,7 +320,7 @@ function showEnding() {
     openingScreen.style.cursor = 'default';
     openingScreen.innerHTML = `
         <div class="opening-content ending-content">
-            <h1 class="opening-title">Happy 5th Monthsary, Love</h1>
+            <h1 class="opening-title">Happy 2nd Monthsary, babi 😭 HAYP NA ’YAN PURO TYPO BUSSENG!</h1>
             <p class="click-instruction">Ayunnn lang po ^^.</p>
             <a class="opening-action-btn" href="../index.html">Go back to selection</a>
         </div>
